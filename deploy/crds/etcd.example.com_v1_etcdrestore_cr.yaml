@@ -1,0 +1,7 @@
+apiVersion: etcd.example.com/v1
+kind: EtcdRestore
+metadata:
+  name: example-etcdrestore
+spec:
+  # Add fields here
+  size: 3
